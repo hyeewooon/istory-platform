@@ -15,7 +15,8 @@ patches:
       name: istory-app-deploy
 
 images:
-  - name: dangtong76/istory
+  - name: istory
+    newName: dangtong76/istory
     newTag: latest
 
 generatorOptions:
