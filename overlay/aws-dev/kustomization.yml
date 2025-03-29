@@ -17,7 +17,7 @@ patches:
 images:
 - name: hyewon97/istory
   newName: hyewon97/istory
-  newTag: "16"
+  newTag: "17"
 - name: istory
   newName: dangtong76/istory
   newTag: latest
